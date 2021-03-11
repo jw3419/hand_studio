@@ -1,5 +1,6 @@
 ## Installation
 ```bash
+// mysql 사전 설치 요망
 $ npm install
 ```
 
